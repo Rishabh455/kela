@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(68, 235, 207);}
+    h1{color: maroon; font-size: 50px;}
+img:hover {
+
+background-color: rgb(177, 42, 42);
+border-radius: 50%;
+}
+.banana{
+    background-color: rgb(197, 245, 197);
+}
+.brocoli{
+    background-color: rgb(8, 216, 53);
+}
+p{
+    color:rgb(153, 23, 62);
+    font-family: "Courier New",monospace;
+    size: 40px;
+
+}
+#loving{
+color: mediumseagreen;
+
+}
